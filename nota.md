@@ -1,4 +1,4 @@
-\# Titolo della nota 1
+\#Titolo della nota
 
 ---
 
@@ -24,11 +24,11 @@ Questa è una tabella:
 
 
 
-| Nome | Cognome | Mail |
+| Nome  | Cognome | Mail              |
 
-|------| ------- | ---- |
+|-------| ------- | ----------------- |
 
-| Erika | Parini | prnrke06@gmail.com|
+| Erika | Parini  | prnrke06@gmail.com|
 
 
 Questo è un link:
